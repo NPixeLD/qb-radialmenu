@@ -4,7 +4,7 @@
 
 qb-radialmenu Nopixel Inspired
 
-Radialmenu Feature for QB-Core Framework
+Radial Menu Feature for QB-Core Framework
 
 # Screenshots
 
